@@ -88,6 +88,7 @@ The current iteration with coils made from 75 turns of 28AWG wire and a 4 magnet
 # Room for improvement
 Theres a lot here that will need exploration:
 - A greater quantity of shorter phases
+- Parametric carriage generation
 - More turns of thinner wire
 - Stabilized magnets within the rail
 
