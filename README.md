@@ -83,7 +83,7 @@ This one certainly has room for improvement. I'm currently driving it with an X-
 # Conclusion
 The current iteration with coils made from 75 turns of 28AWG wire and a 4 magnet piston can oscillate at up to ~3Hz when run at ~18V, ~1.2A. Exciting for a second iteration (first iteration was 9 turns of 2 24AWG strands: needed way too much current), but definitely a lot of room for improvement to be anything more than a desk toy.
 
-![Motor Oscillating](Media/High speed oscillation.webp)
+![Motor Oscillating](Media/High_Speed_Oscillation.webp)
 
 # Room for improvement
 Theres a lot here that will need exploration:
