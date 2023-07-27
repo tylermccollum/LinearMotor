@@ -3,7 +3,7 @@ A 3D printed linear motor prototype
 ![Assembly](Media/Assembly_Showcase.png)
 
 # Background
-While the end-goal of many actuators is linear motion, achieving linear motion usually involves a rotary motor and a ball-screw or a spool and cable assembly. While both of those options will suffice for most applications, they significantly increase the complexity of most assemblies and are susceptible to wear. There do exist linear motors, but most designs have the coil-magnet flux normal to the path of travel, essentially forming a rotary BLDC motor with an infinite radius. This configuration reduces the efficiency and the force output for a motor of a given size. 
+While the end-goal of many actuators is linear motion, achieving linear motion usually involves a rotary motor and a ball-screw or a spool and cable assembly. While both of those options will suffice for most applications, they significantly increase the complexity of most assemblies and are susceptible to wear. "True" linear motors do exist, but most designs have the coil-magnet flux normal to the path of travel, essentially forming a rotary BLDC motor with an infinite radius. This configuration reduces the efficiency and the force output for a motor of a given size. 
 
 While it is even possible to purchase linear motors where the flux angle is always perfectly aligned (what I'll call "Axial Flux Linear Motors") they're often prohibitively expensive outside of commercial applications and lack potential for customization. The goal for this project is to design a functional, scalable prototype of an axial linear motor that can be re-used in future designs.
 
